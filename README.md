@@ -1,2 +1,3 @@
-# EquacaoDoSegundoGrau
-App mobile para resolução de equações do 2º Grau
+# Equação do Segundo Grau
+
+Aplicação web (mobile) para resolução de equações do segundo grau.
